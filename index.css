@@ -187,37 +187,3 @@
     }
 }
 
-/* .info-section{
-    height: 400px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 30px;
-}
-
-.info-header{
-    font-size: 36px;
-    font-weight:bolder;
-    text-align: center;
-}
-
-.info-flex{
-    display: flex;
-    justify-content: center;
-    gap: 50px;
-}
-
-.flex-item{
-    display: flex;
-    flex-direction: column;
-    min-width: 200px;
-    text-align: center;
-    align-items: center;
-}
-
-.flex-item img {
-    width: 200px;
-    height: 200px;
-    border-radius: 20px;
-} */
-
